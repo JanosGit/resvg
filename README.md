@@ -1,3 +1,7 @@
+# Note
+
+This fork has been modified to build a static C library instead of the original dynamically linked library.
+
 ## resvg
 [![Build Status](https://travis-ci.org/RazrFalcon/resvg.svg?branch=master)](https://travis-ci.org/RazrFalcon/resvg)
 [![Crates.io](https://img.shields.io/crates/v/resvg.svg)](https://crates.io/crates/resvg)
